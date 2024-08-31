@@ -256,4 +256,4 @@ Note: Use Python version: 3.8.5
 # Collaborators
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | Sugapriya | [GitHub](https://github.com/SugapriyaGurunathan) | 
+  | Sugapriya | [GitHub](https://github.com/sugapriya-g) | 
